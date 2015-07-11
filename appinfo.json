@@ -1,0 +1,28 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "girlgrammer",
+    "longName": "watchface-demo",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/grumpycat.png",
+                "name": "IMAGE_GRUMPY",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "watchface-demo",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "6d462de1-a46b-4ce2-a424-651a8c8b1263",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
